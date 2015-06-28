@@ -1,0 +1,14 @@
+-------------------------------
+4/25/2006 8:13:35 AM 
+File: modClientTCP.bas
+Procedure: HandleData
+Error #401
+Description: Can't show non-modal form when modal form is displayed
+
+-------------------------------
+4/25/2006 8:14:01 AM 
+File: modClientTCP.bas
+Procedure: HandleData
+Error #9
+Description: Subscript out of range
+
